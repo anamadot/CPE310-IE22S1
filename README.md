@@ -6,5 +6,6 @@ Fundamentals of Data Science
 <img width="30" height="30" alt="chicken" src="https://github.com/user-attachments/assets/b237468c-5bac-4474-a948-b9ffca0e543e" />
 
   Hi, I am Alex! I like playing video games in my spare time like Stardew Valley, Minecraft, and Valorant.
+<enter/>
   I adopted a cat and I named him Chonky.
 
